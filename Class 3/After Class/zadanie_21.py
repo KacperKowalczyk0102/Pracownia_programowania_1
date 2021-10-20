@@ -1,10 +1,10 @@
 # Zadanie 21
 
-# 21. Napisz program, który utworzy tabliczkę mnożenia z zakresu od 1 do 10
-# dla dowolnej liczby wprowadzonej przez użytkownika.
+# 22. Zmienna „uniwersytet” zawiera nazwę uczelni, na której studiujesz.
+# Napisz program, który wyświetla zawartość zmiennej z dodatkową spacją
+# między znakami (dodaj spację między każdym znakiem).
 
-number = int(input("Podaj liczbę: "))
+uniwersytet = "UEK w Krakowie"
 
-for x in range(1, 11):
-    result = number * x
-    print(f"{result} X {x} = {result}")
+for litera in uniwersytet:
+    print(f"{litera}", end=" ")

@@ -1,10 +1,16 @@
 # Zadanie 22
 
-# 22. Zmienna „uniwersytet” zawiera nazwę uczelni, na której studiujesz.
-# Napisz program, który wyświetla zawartość zmiennej z dodatkową spacją
-# między znakami (dodaj spację między każdym znakiem).
+# 23. Napisz program, który wyświetla liczby od 1 do 30. Jeśli liczba jest podzielna przez 3, to program wyświetla słowo 'THREE'.
+# Następnie, jeśli liczba jest podzielna przez 5, program wyświetla słowo „PIĘĆ”.
+# Wreszcie, jeśli liczba jest podzielna przez 3 i 5, program wyświetla słowo „BINGO”.
 
-uniwersytet = "UEK w Krakowie"
-
-for litera in uniwersytet:
-    print(f"{litera}", end=" ")
+for number in range(1,31):
+    print(number, end=" | ")
+    if  number%3 == 0 and  number%5 == 0:
+        print("BINGO", end="")
+    else:
+        if number%3 == 0:
+            print("TRZY", end="")
+        if number%5 == 0:
+          print("PIĘĆ", end="")
+    print()

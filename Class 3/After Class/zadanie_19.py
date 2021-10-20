@@ -1,8 +1,16 @@
 # Zadanie 19
 
-# 19. Są monety o nominale 1, 2 i 5 polskich złotych (PLN).
-# Napisz program pokazujący dowolną ilość (liczbę naturalną)
-# odczytaną z klawiatury przy jak najmniejszej liczbie monet.
+# 20. Napisz program, który oblicza wiek psa na psie lata.
+# Przez pierwsze dwa lata życie psa wynosi 10,5 lat ludzkich.
+# Następnie każdy rok psa równa się 4 latom ludzkim. Przykładowy wynik:
 
-amount = int(input("Podaj wartość: "))
+wiek_psa = int(input("Podaj wiek psa: "))
+
+if wiek_psa <= 2:
+    print("Wiek psa to 10,5 lat ludzkich")
+else:
+    wiek = 10.5
+    wiek += (wiek_psa-2) * 4
+    print(f"Wiek psa to {wiek} lat ludzkich")
+
 
