@@ -6,11 +6,13 @@
 
 wiek_psa = int(input("Podaj wiek psa: "))
 
-if wiek_psa <= 2:
-    print("Wiek psa to 10,5 lat ludzkich")
-else:
-    wiek = 10.5
-    wiek += (wiek_psa-2) * 4
-    print(f"Wiek psa to {wiek} lat ludzkich")
+wiek = 0
+for i in range(1, wiek_psa+1):
+    if i <=2:
+        wiek += 10.5
+    elif i > 2:
+        wiek += 4
+
+print(f"Wiek psa to {int(wiek)} lat ludzkich")
 
 
