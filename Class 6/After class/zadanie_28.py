@@ -1,9 +1,14 @@
 # Zadanie 28
 
-array1 = []
-array2 = []
+array = [897, 65, 14, 2, 78, 150, 240, 123]
 
-for n in array2:
-    for m in array1:
-        if n == m:
-            state = True
+line = "-"
+content = "|"
+for n in array:
+    line += "-"* ( len( str(n) )+4 )
+    content += "   "+str(n)+"|"
+
+print(line)
+print(content)
+print(line)
+
