@@ -1,6 +1,6 @@
 # Zadanie 19
 
-numbers = [2, 3, 2, 5, 8, 1, 9, 8, 8, 9]
+numbers = [3, 3, 2, 5, 8, 1, 9, 8, 8, 9]
 unique_elements = ""
 not_elements = []
 
