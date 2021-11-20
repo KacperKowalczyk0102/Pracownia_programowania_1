@@ -1,0 +1,8 @@
+a)	"Poland"
+b)	"Poland|Germany|France"
+c)	"\.|\,"
+d)	"[0-9]{4}"
+e)	"[A-Z]"
+f)	"[aeioóuy]"
+g) 	"[a-zA-Z]{5}[a-zA-Z]*"
+h)	"[A-Z]{1}[a-zA-Z]*"
