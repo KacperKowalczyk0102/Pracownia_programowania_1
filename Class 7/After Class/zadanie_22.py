@@ -1,7 +1,7 @@
 # Zadanie 22
 import random
 
-file = open("files\power_numbers.txt", "w")
+file = open("files/power_numbers.txt", "w")
 
 for i in range(10):
     txt = ""

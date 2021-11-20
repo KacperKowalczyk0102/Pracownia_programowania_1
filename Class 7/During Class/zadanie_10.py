@@ -1,6 +1,6 @@
 # Zadanie 10
 
-file = open("files\dane.txt", "w")
+file = open("files/dane.txt", "w")
 
 file.write("Michał\n")
 file.write("Warszawski\n")

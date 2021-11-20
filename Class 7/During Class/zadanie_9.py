@@ -1,6 +1,6 @@
 # Zadanie 9
 
-file = open('files\liczby.txt','r')
+file = open('files/liczby.txt','r')
 
 suma = 0
 for num in file:

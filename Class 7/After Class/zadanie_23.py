@@ -2,7 +2,7 @@
 
 import csv
 
-with open('files\students.txt', newline='') as csvfile:
+with open('files/students.txt', newline='') as csvfile:
     spamreader = csv.reader(csvfile, delimiter=',')
     for pos, row in enumerate(spamreader):
         if pos > 0:

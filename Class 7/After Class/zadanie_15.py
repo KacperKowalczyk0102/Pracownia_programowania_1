@@ -1,7 +1,7 @@
 # Zadanie 15
 
 name = input("Podaj nazwę pliku: ")
-name = "files\\" + name + ".txt"
+name = "files/" + name + ".txt"
 file = open(name, "r")
 length = 0
 for i in file:

@@ -1,6 +1,6 @@
 # Zadanie 12
 
-file = open("files\shopping.txt", "a")
+file = open("files/shopping.txt", "a")
 
 def add_product():
     product = input("Podaj nazwę produktu: ")
