@@ -1,6 +1,5 @@
 # Zadanie 28
 import re
-import math
 
 file = open("files/grades.txt", "r")
 content = file.read()

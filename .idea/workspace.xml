@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dd03317-db8e-4dc2-9947-1340c6e6541e" name="Changes" comment="class 7">
-      <change beforePath="$PROJECT_DIR$/Class 4/after class/zadanie_16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 4/after class/zadanie_17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 4/after class/zadanie_18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 4/after class/zadanie_19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 4/after class/zadanie_20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 4/after class/zadanie_21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 4/after class/zadanie_22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 7/07-Files.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Class 7/07-Files.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 7/After Class/files/power_numbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Class 7/After Class/files/power_numbers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 7/After Class/zadanie_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 7/After Class/zadanie_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 7/After Class/zadanie_28.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 7/After Class/zadanie_28.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 7/After Class/zadanie_29.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 7/~$-Files.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 7/~$-Pliki.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xxx.py" beforeDir="false" afterPath="$PROJECT_DIR$/xxx.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1637442807607</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="class 7">
+      <created>1637442866503</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1637442866503</updated>
+    </task>
+    <task id="LOCAL-00007" summary="class 7">
+      <created>1637443027296</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1637443027296</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +100,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="class 7" />

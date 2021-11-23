@@ -1,6 +1,6 @@
-# # Zadanie 16
-#
-# file = open("files\\lorem.txt", "r")
+# Zadanie 16
+
+# file = open("files/lorem.txt", "r")
 # def five_lines(n, m):
 #     for i in range(n, m):
 #         if i < m:
