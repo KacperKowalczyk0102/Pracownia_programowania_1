@@ -12,8 +12,9 @@ def data_input():
     if next == "":
         data_input()
     else:
-        file = open("student.json", "w")
-        json.dump(uczniowie, file, indent=4)
+        with open("student.json", "w") as file:
+            json.dump(uczniowie, file, indent=4)
+
         print("Zapisano dane do pliku")
 data_input()
 

@@ -45,3 +45,4 @@ dictionary = {
 file = open("dictionary.txt", "w")
 for k,v in dictionary.items():
     file.write(k + " " + v + "\n")
+file.close()

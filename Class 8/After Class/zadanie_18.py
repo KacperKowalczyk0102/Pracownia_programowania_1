@@ -5,7 +5,7 @@ stos = []
 x = 18
 
 while x > 0:
-    y = x %2
+    y = x % 2
     x = x // 2
     stos.append(y)
 

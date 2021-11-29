@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dd03317-db8e-4dc2-9947-1340c6e6541e" name="Changes" comment="class 8">
-      <change afterPath="$PROJECT_DIR$/Class 8/After Class/zadanie_19b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class 8/After Class/euro.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class 8/After Class/students.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 8/After Class/zadanie_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 8/After Class/zadanie_19a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 8/08-SłownikiStosyIKolejk.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Class 8/08-SłownikiStosyIKolejk.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 8/After Class/zadanie_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 8/After Class/zadanie_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 8/After Class/zadanie_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 8/After Class/zadanie_17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 8/After Class/zadanie_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 8/After Class/zadanie_18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 8/After Class/zadanie_20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 8/After Class/zadanie_20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 8/After Class/zadanie_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 8/After Class/zadanie_21.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +43,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Michał\Desktop\Pracownia Programowania\Class 8\After Class" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -110,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638219688182</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="class 8">
+      <created>1638220650476</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1638220650476</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
