@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dd03317-db8e-4dc2-9947-1340c6e6541e" name="Changes" comment="class 8">
-      <change afterPath="$PROJECT_DIR$/Class 8/After Class/euro.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class 8/After Class/students.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class 9 - KOL/F1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class 9 - KOL/F2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class 9 - KOL/F3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class 9 - KOL/F4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class 9 - KOL/F5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class 9 - KOL/F6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class 9 - KOL/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Class 8/08-SłownikiStosyIKolejk.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Class 8/08-SłownikiStosyIKolejk.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 8/After Class/zadanie_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 8/After Class/zadanie_15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 8/After Class/zadanie_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 8/After Class/zadanie_17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 8/After Class/zadanie_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 8/After Class/zadanie_18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 8/After Class/zadanie_20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 8/After Class/zadanie_20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 8/After Class/zadanie_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 8/After Class/zadanie_21.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Michał\Desktop\Pracownia Programowania\Class 9 - KOL" />
       <recent name="C:\Users\Michał\Desktop\Pracownia Programowania\Class 8\After Class" />
     </key>
   </component>
@@ -128,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638220650476</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="class 8">
+      <created>1638224461879</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1638224461879</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
