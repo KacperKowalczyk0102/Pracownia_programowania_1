@@ -1,8 +1,9 @@
-# Zadanie 1
+# F1
 
-def f1(a):
+def f1(a, c):
     lp = 0
-    for x in a:
-        if x % 2 == 0 and x > 8:
-            lp = lp + 1
+    for i in range(len(a)):
+        for j in a[i]:
+            if j == c:
+                lp = lp + 1
     return lp

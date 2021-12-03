@@ -1,10 +1,9 @@
-# Zadanie 4
+# F4
 
-def f4(d):
-    suma = 0
-    for k, v in d.items():
-        for n in v:
-            if n >= 5 and n <= 10:
-                suma = suma + n
-
-    return suma
+def f4(d, n):
+    lp = 0
+    for x in d:
+        if x["age"] > n:
+            lp = lp + 1
+    
+    return lp
