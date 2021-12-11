@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dd03317-db8e-4dc2-9947-1340c6e6541e" name="Changes" comment="class 9">
+    <list default="true" id="8dd03317-db8e-4dc2-9947-1340c6e6541e" name="Changes" comment="class 10">
+      <change afterPath="$PROJECT_DIR$/Class 10/After Class/ebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class 10/After Class/zadanie_20/contact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class 10/After Class/zadanie_20/contact_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class 10/After Class/zadanie_20/smartphone.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 10/10-ClassesAndObjects (1).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 10/10-KlasyiObjektydocx.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Class 10/10-KlasyiObjektydocx.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 10/After Class/zadanie_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 10/After Class/zadanie_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 10/After Class/zadanie_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 10/After Class/zadanie_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 10/After Class/zadanie_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 10/After Class/zadanie_17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 10/After Class/zadanie_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 10/After Class/zadanie_18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 10/After Class/zadanie_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 10/After Class/zadanie_19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 10/After Class/zadanie_20.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/xxx.py" beforeDir="false" afterPath="$PROJECT_DIR$/xxx.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +51,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Michał\Desktop\Pracownia Programowania\Class 10\After Class\zadanie_20" />
+      <recent name="C:\Users\Michał\Desktop\Pracownia Programowania\Class 10\After Class" />
       <recent name="C:\Users\Michał\Desktop\Pracownia Programowania\Class 9 - KOL" />
       <recent name="C:\Users\Michał\Desktop\Pracownia Programowania\Class 8\After Class" />
     </key>
@@ -150,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638530965467</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="class 10">
+      <created>1639221393829</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1639221393829</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +191,7 @@
     <MESSAGE value="class 7/8" />
     <MESSAGE value="class 8" />
     <MESSAGE value="class 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="class 9" />
+    <MESSAGE value="class 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 10" />
   </component>
 </project>
