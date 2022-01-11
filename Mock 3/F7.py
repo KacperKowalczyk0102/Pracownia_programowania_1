@@ -4,6 +4,7 @@ class C:
     def __init__(self):
         file = open("mockdata.json")
         self.j = json.load(file)
+        file.close()
 
     def m1(self, n1, n2):
         lp = 0
@@ -19,5 +20,6 @@ class C:
                 families.append(x)
         file = open("mockdata1.json", "w")
         json.dump(families, file, indent=4)
+        file.close()
         return families
 

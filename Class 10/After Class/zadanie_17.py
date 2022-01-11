@@ -5,7 +5,7 @@ import random
 class Thermometer:
 
     def __init__(self):
-        self.is_on= False
+        self.is_on = False
         self.temperature = 0
 
     def turn_on(self):

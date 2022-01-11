@@ -46,8 +46,15 @@ class Statistics:
         self.arithmetic= round(suma/len(self.number), 2)
 
 
-    def median(self):
-        pass
+    def mediana(self):
+        print(len(self.number))
+        if len(self.number) % 2 == 0:
+            x = int(len(self.number)/2)
+            y = int(len(self.number)/2)-1
+            self.median = (self.number[x] + self.number[y])/2
+        else:
+            x = int(len(self.number)/2)
+            self.median = self.number[x]
 
 
     def results(self):
@@ -62,8 +69,10 @@ s1 = Statistics()
 s1.add_number()
 s1.add_number()
 s1.add_number()
+s1.add_number()
 s1.display()
 s1.smallest()
 s1.greatest()
 s1.arithmetic_mean()
+s1.mediana()
 s1.results()
